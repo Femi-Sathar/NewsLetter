@@ -1,0 +1,16 @@
+{
+  "name": "newsletterproject",
+  "version": "1.0.0",
+  "description": "NewsLetter SignUp",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Femi Sathar",
+  "license": "ISC",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.74",
+    "express": "^4.17.2",
+    "got": "^12.0.1"
+  }
+}
